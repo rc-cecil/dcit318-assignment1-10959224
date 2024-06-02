@@ -1,0 +1,15 @@
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\gradeCalculator\bin\Debug\net8.0\gradeCalculator.exe
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\gradeCalculator\bin\Debug\net8.0\gradeCalculator.deps.json
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\gradeCalculator\bin\Debug\net8.0\gradeCalculator.runtimeconfig.json
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\gradeCalculator\bin\Debug\net8.0\gradeCalculator.dll
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\gradeCalculator\bin\Debug\net8.0\gradeCalculator.pdb
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\gradeCalculator\obj\Debug\net8.0\gradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\gradeCalculator\obj\Debug\net8.0\gradeCalculator.AssemblyInfoInputs.cache
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\gradeCalculator\obj\Debug\net8.0\gradeCalculator.AssemblyInfo.cs
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\gradeCalculator\obj\Debug\net8.0\gradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\gradeCalculator\obj\Debug\net8.0\gradeCalculator.sourcelink.json
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\gradeCalculator\obj\Debug\net8.0\gradeCalculator.dll
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\gradeCalculator\obj\Debug\net8.0\refint\gradeCalculator.dll
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\gradeCalculator\obj\Debug\net8.0\gradeCalculator.pdb
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\gradeCalculator\obj\Debug\net8.0\gradeCalculator.genruntimeconfig.cache
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\gradeCalculator\obj\Debug\net8.0\ref\gradeCalculator.dll
