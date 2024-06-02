@@ -1,0 +1,15 @@
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\triangleType\bin\Debug\net8.0\triangleType.exe
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\triangleType\bin\Debug\net8.0\triangleType.deps.json
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\triangleType\bin\Debug\net8.0\triangleType.runtimeconfig.json
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\triangleType\bin\Debug\net8.0\triangleType.dll
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\triangleType\bin\Debug\net8.0\triangleType.pdb
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\triangleType\obj\Debug\net8.0\triangleType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\triangleType\obj\Debug\net8.0\triangleType.AssemblyInfoInputs.cache
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\triangleType\obj\Debug\net8.0\triangleType.AssemblyInfo.cs
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\triangleType\obj\Debug\net8.0\triangleType.csproj.CoreCompileInputs.cache
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\triangleType\obj\Debug\net8.0\triangleType.sourcelink.json
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\triangleType\obj\Debug\net8.0\triangleType.dll
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\triangleType\obj\Debug\net8.0\refint\triangleType.dll
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\triangleType\obj\Debug\net8.0\triangleType.pdb
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\triangleType\obj\Debug\net8.0\triangleType.genruntimeconfig.cache
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\triangleType\obj\Debug\net8.0\ref\triangleType.dll
