@@ -1,0 +1,15 @@
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\ticketPrice\bin\Debug\net8.0\ticketPrice.exe
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\ticketPrice\bin\Debug\net8.0\ticketPrice.deps.json
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\ticketPrice\bin\Debug\net8.0\ticketPrice.runtimeconfig.json
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\ticketPrice\bin\Debug\net8.0\ticketPrice.dll
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\ticketPrice\bin\Debug\net8.0\ticketPrice.pdb
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\ticketPrice\obj\Debug\net8.0\ticketPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\ticketPrice\obj\Debug\net8.0\ticketPrice.AssemblyInfoInputs.cache
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\ticketPrice\obj\Debug\net8.0\ticketPrice.AssemblyInfo.cs
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\ticketPrice\obj\Debug\net8.0\ticketPrice.csproj.CoreCompileInputs.cache
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\ticketPrice\obj\Debug\net8.0\ticketPrice.sourcelink.json
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\ticketPrice\obj\Debug\net8.0\ticketPrice.dll
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\ticketPrice\obj\Debug\net8.0\refint\ticketPrice.dll
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\ticketPrice\obj\Debug\net8.0\ticketPrice.pdb
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\ticketPrice\obj\Debug\net8.0\ticketPrice.genruntimeconfig.cache
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment1-10959224\ticketPrice\obj\Debug\net8.0\ref\ticketPrice.dll
